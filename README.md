@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jahanzaib-Waris
 - 👀 I’m interested in FLutter || Machine Learning || Mobile Application Development
-- 🌱 I’m currently learning FLutterflow
+- 🌱 I’m currently FLutterflow Developer
 - 💞️ I’m looking to collaborate on Mobile App and Machine Learning Research Project
 - 📫 How to reach me jahanzaibwaris0017@gmail
-- ⚡ Fun fact: I am an introvert But when our vibes match 😜
